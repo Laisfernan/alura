@@ -1,0 +1,6 @@
+.carrocel__titulo {
+    color: var(--rosa);
+    background-color: var(--branco);
+    text-align: center;
+    text-transform: uppercase;
+}
